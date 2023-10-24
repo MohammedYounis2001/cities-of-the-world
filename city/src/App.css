@@ -37,25 +37,13 @@
   }
 }
 
-
-.city-card {
-  background-color: #fff;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 10px;
-  margin: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
-
-.city-card img {
+.imges{
+  height: 300px;
   width: 100%;
-  height: auto;
 }
 
-.city-card h3 {
-  font-size: 1.5em;
-}
+
+
 
 @tailwind base;
 @tailwind components;
